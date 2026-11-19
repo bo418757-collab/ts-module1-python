@@ -1,0 +1,4 @@
+Ada,91,A
+Chi,85,B
+Tolu,78,C
+Emeka,64,D
